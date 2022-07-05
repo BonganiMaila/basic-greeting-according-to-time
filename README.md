@@ -31,7 +31,8 @@
 ## Screenshots of the pages
 
 ### Index
-![](https://github.com/BonganiMaila/BJ-Photography/blob/main/BJ-Photography/screenshots/index.png)
+![](https://github.com/BonganiMaila/basic-greeting-according-to-time/blob/basic-greeting/greeting_project/image.png)
+
 
 
 ## Contributors
